@@ -4,7 +4,7 @@ This repository contains all of the code implementations for each topic in the c
 
 Course Outline: https://believed-bongo-319.notion.site/CTAPDEVL-1a1fe34b02c14204953164b17fe9b093?pvs=4
 
-| Folder Name | Topic |
+| Folder Name | Description |
 | :---         |     :---:      |       
 | Week 1 - Introduction to Android Studio | Installing Android Studio, Android Studio Fundamentals |
 | Week 2 and 3 - Activity Lifecycle | ID Application, Debugging your Application, Generating a Signed APK |
