@@ -6,15 +6,11 @@ Course Outline: https://believed-bongo-319.notion.site/CTAPDEVL-1a1fe34b02c14204
 
 | Folder Name | Topic |
 | :---         |     :---:      |       
-| week_1   | |
-| week_2   | |
-| week_3   | |
-| week_4   | |
-| week_5  | |
-| week_6-7 | |
-| week_8   | |
-| week_9   | |
-| week_10   | |
-| week_11   | |
-| week_12   | |
+| Week 1 - Introduction to Android Studio | Installing Android Studio, Android Studio Fundamentals |
+| Week 2 and 3 - Activity Lifecycle | ID Application, Debugging your Application, Generating a Signed APK |
+| Week 4 and 5 - User Interface | Relative Layout, Linear Layout, Layout Parameters, Views, View Parameters |
+| Week 6 and 7 - Intent | Introduction to Intent, Explicit Intent, Implicit Intent, Passing Data through Intent |
+| Week 8 and 9 - Fragments | Fragments, Introduction to Fragments, RecyclerView, CardView |
+| Week 10 and 11 - Android App Manifest | Android App Manifest, Permissions, Components, Device Compatibility |
+| Week 12 - API Calls | Retrofit |
 
