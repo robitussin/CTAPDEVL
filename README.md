@@ -1,6 +1,3 @@
-# CTAPDEVL
-APPLICATIONS DEVELOPMENT AND EMERGING TECHNOLOGIES
-
 # **CTAPDEVL**
 
 This repository contains all of the code implementations for each topic in the course outline for APPLICATIONS DEVELOPMENT AND EMERGING TECHNOLOGIES
