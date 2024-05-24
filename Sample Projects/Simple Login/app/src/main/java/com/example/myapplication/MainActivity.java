@@ -29,11 +29,13 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void login(View v){
+
         Intent i = new Intent(this, HomeActivity.class);
 
         // this refers to the username textfield
         TextView t = findViewById(R.id.username);
         String name = t.getText().toString();
+
         i.putExtra("uname", name);
 
         TextView p = findViewById(R.id.password);
