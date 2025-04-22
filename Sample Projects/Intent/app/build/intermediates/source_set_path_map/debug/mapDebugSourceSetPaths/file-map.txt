@@ -1,0 +1,36 @@
+com.example.intent.app-core-runtime-2.2.0-0 /Users/user/.gradle/caches/8.11.1/transforms/08c32244d758bbc017b71752ccbb6065/transformed/core-runtime-2.2.0/res
+com.example.intent.app-tracing-1.2.0-1 /Users/user/.gradle/caches/8.11.1/transforms/2e23013910bf342993dda20a6095ea8a/transformed/tracing-1.2.0/res
+com.example.intent.app-recyclerview-1.1.0-2 /Users/user/.gradle/caches/8.11.1/transforms/318989fac77beab94c48872fa1ecea7b/transformed/recyclerview-1.1.0/res
+com.example.intent.app-lifecycle-livedata-2.6.2-3 /Users/user/.gradle/caches/8.11.1/transforms/415c7875b852f722e3b5cdd3ca77b94b/transformed/lifecycle-livedata-2.6.2/res
+com.example.intent.app-transition-1.5.0-4 /Users/user/.gradle/caches/8.11.1/transforms/5b04a0552091ec05cf339cff5f467cae/transformed/transition-1.5.0/res
+com.example.intent.app-activity-1.10.1-5 /Users/user/.gradle/caches/8.11.1/transforms/5c138f0bc6236b81bae6c7418f825939/transformed/activity-1.10.1/res
+com.example.intent.app-lifecycle-viewmodel-2.6.2-6 /Users/user/.gradle/caches/8.11.1/transforms/69895d02a9ce42d180640cb02211f952/transformed/lifecycle-viewmodel-2.6.2/res
+com.example.intent.app-lifecycle-process-2.6.2-7 /Users/user/.gradle/caches/8.11.1/transforms/6b8d810883df4edf04a4bfaa1347c7e8/transformed/lifecycle-process-2.6.2/res
+com.example.intent.app-constraintlayout-2.2.1-8 /Users/user/.gradle/caches/8.11.1/transforms/73c708514d5085e5ed69f787cd85f11f/transformed/constraintlayout-2.2.1/res
+com.example.intent.app-lifecycle-livedata-core-2.6.2-9 /Users/user/.gradle/caches/8.11.1/transforms/80aabcd0f46f32f1f040a285018c66e1/transformed/lifecycle-livedata-core-2.6.2/res
+com.example.intent.app-material-1.12.0-10 /Users/user/.gradle/caches/8.11.1/transforms/83ae7f3f7254a5f4c530faa78fa514bb/transformed/material-1.12.0/res
+com.example.intent.app-emoji2-1.3.0-11 /Users/user/.gradle/caches/8.11.1/transforms/84ffefb9bacc02e6bde015bbaaadaf2d/transformed/emoji2-1.3.0/res
+com.example.intent.app-startup-runtime-1.1.1-12 /Users/user/.gradle/caches/8.11.1/transforms/885e1a6fca51f1321b5c89fad2c38320/transformed/startup-runtime-1.1.1/res
+com.example.intent.app-lifecycle-viewmodel-savedstate-2.6.2-13 /Users/user/.gradle/caches/8.11.1/transforms/90c420f561a3e79a4b09ac931cd7fe01/transformed/lifecycle-viewmodel-savedstate-2.6.2/res
+com.example.intent.app-core-1.15.0-14 /Users/user/.gradle/caches/8.11.1/transforms/97ca7e51858b061d0fb640be6da04701/transformed/core-1.15.0/res
+com.example.intent.app-core-viewtree-1.0.0-15 /Users/user/.gradle/caches/8.11.1/transforms/9a7688c3ab10f213b48d851f772a1dd0/transformed/core-viewtree-1.0.0/res
+com.example.intent.app-lifecycle-runtime-2.6.2-16 /Users/user/.gradle/caches/8.11.1/transforms/9c19180b599d5fc9eabd0e91dfa4e381/transformed/lifecycle-runtime-2.6.2/res
+com.example.intent.app-cardview-1.0.0-17 /Users/user/.gradle/caches/8.11.1/transforms/a3a6bbd3d320a75de33444c8e879a6ad/transformed/cardview-1.0.0/res
+com.example.intent.app-annotation-experimental-1.4.1-18 /Users/user/.gradle/caches/8.11.1/transforms/a7d3480d7dc8722f786273a607aa1e07/transformed/annotation-experimental-1.4.1/res
+com.example.intent.app-appcompat-1.7.0-19 /Users/user/.gradle/caches/8.11.1/transforms/abb3ca7722fedf2651e5a963241f6216/transformed/appcompat-1.7.0/res
+com.example.intent.app-core-ktx-1.15.0-20 /Users/user/.gradle/caches/8.11.1/transforms/b90374b175765faf933b10fe0d6669ac/transformed/core-ktx-1.15.0/res
+com.example.intent.app-drawerlayout-1.1.1-21 /Users/user/.gradle/caches/8.11.1/transforms/bae25781838ade058a06f326511958bf/transformed/drawerlayout-1.1.1/res
+com.example.intent.app-fragment-1.5.4-22 /Users/user/.gradle/caches/8.11.1/transforms/c0007c7aea76fd337fd101cc7b8212fe/transformed/fragment-1.5.4/res
+com.example.intent.app-profileinstaller-1.4.0-23 /Users/user/.gradle/caches/8.11.1/transforms/c70dc68feb4997345e54c2c384cb56c0/transformed/profileinstaller-1.4.0/res
+com.example.intent.app-emoji2-views-helper-1.3.0-24 /Users/user/.gradle/caches/8.11.1/transforms/d028fcbcb599309b307812d6adf7f67f/transformed/emoji2-views-helper-1.3.0/res
+com.example.intent.app-savedstate-1.2.1-25 /Users/user/.gradle/caches/8.11.1/transforms/d477f0f3c7e9859365157847f84bac25/transformed/savedstate-1.2.1/res
+com.example.intent.app-coordinatorlayout-1.1.0-26 /Users/user/.gradle/caches/8.11.1/transforms/dd4cd54a9c074fb6a78fe821e80fbe35/transformed/coordinatorlayout-1.1.0/res
+com.example.intent.app-appcompat-resources-1.7.0-27 /Users/user/.gradle/caches/8.11.1/transforms/e7f985a07c69af4d2ef9dae60a95372a/transformed/appcompat-resources-1.7.0/res
+com.example.intent.app-viewpager2-1.0.0-28 /Users/user/.gradle/caches/8.11.1/transforms/fa2e6b80f38079e50366cdce37932750/transformed/viewpager2-1.0.0/res
+com.example.intent.app-pngs-29 /Users/user/Documents/GitHub/CTAPDEVL/Sample Projects/Intent/app/build/generated/res/pngs/debug
+com.example.intent.app-resValues-30 /Users/user/Documents/GitHub/CTAPDEVL/Sample Projects/Intent/app/build/generated/res/resValues/debug
+com.example.intent.app-packageDebugResources-31 /Users/user/Documents/GitHub/CTAPDEVL/Sample Projects/Intent/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.intent.app-packageDebugResources-32 /Users/user/Documents/GitHub/CTAPDEVL/Sample Projects/Intent/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.intent.app-debug-33 /Users/user/Documents/GitHub/CTAPDEVL/Sample Projects/Intent/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.intent.app-debug-34 /Users/user/Documents/GitHub/CTAPDEVL/Sample Projects/Intent/app/src/debug/res
+com.example.intent.app-main-35 /Users/user/Documents/GitHub/CTAPDEVL/Sample Projects/Intent/app/src/main/res
